@@ -16,9 +16,9 @@
 ## Enviando notificações do sistema
 
 Enviando notificação às 8:29h do dia 14:
-
-`29 8 14 * * user-name notify-send "Conteúdo da notificação"`
-
+```shell
+29 8 14 * * user-name notify-send "Conteúdo da notificação"
+```
 ## Usando sed e cron para alterar conteúdo de website
 
 Script para modificar o site
@@ -34,3 +34,7 @@ Rodando o script no crontab às 10:00h do dia 14
 ```shell
 0 10 14 * * le sh /caminho/para/script.sh
 ```
+
+## Links de referência
+- [Manual do crontab](https://linux.die.net/man/5/crontab)
+- [Manual do sed](https://linux.die.net/man/1/sed)
