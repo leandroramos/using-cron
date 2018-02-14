@@ -25,6 +25,7 @@ Script para modificar o site
 
 ```shell
 #!/bin/bash
+#script.sh
 sed -i -e "s/Texto para ser substituído/Novo texto/g" /caminho/para/pagina.html
 ```
 
