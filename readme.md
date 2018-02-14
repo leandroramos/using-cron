@@ -3,7 +3,7 @@
 ## Esqueleto de tarefas do cron
 
 ```shell
-# Example of job definition:
+# Modelo de definição de tarefa
 # .---------------- minuto (0 - 59)
 # |  .------------- hora (0 - 23)
 # |  |  .---------- dia do mês (1 - 31)
