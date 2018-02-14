@@ -1,5 +1,9 @@
 # Usando o Cron no Linux
 
+## Link para o screencast
+
+- https://youtu.be/X0HEg__86_Q
+
 ## Esqueleto de tarefas do cron
 
 ```shell
